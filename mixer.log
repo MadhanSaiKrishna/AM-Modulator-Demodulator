@@ -1,0 +1,27 @@
+Circuit: * C:\Users\madha\Desktop\AM-Modulator-Demodulator\mixer.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+WARNING: Node N004 is floating.
+
+WARNING: Less than two connections to node n004.  This node is used by m1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Mar 18 11:18:05 2025
+Total elapsed time: 0.474 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 216349
+traniter = 216335
+tranpoints = 98009
+accept = 58813
+rejected = 39196
+matrix size = 9
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 430 bytes object code size  0.3/0.3/[0.2]
+Matrix Compiler2: 669 bytes object code size  0.2/0.3/[0.2]
+
