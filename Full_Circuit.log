@@ -6,30 +6,50 @@ Warning: Multiple definitions of model "bc847c" Type: BJT
 Warning: Multiple definitions of model "bc847b" Type: BJT
 Ignoring BSIM parameter XL
 Ignoring BSIM parameter XW
+WARNING: Node N006 is floating.
 WARNING: Node N008 is floating.
-WARNING: Node N009 is floating.
-WARNING: Node NC_01 is floating.
+WARNING: Node N013 is floating.
+WARNING: Node FINAL_OUT is floating.
 
-WARNING: Less than two connections to node n008.  This node is used by m1.
-WARNING: Less than two connections to node n009.  This node is used by m2.
-WARNING: Less than two connections to node nc_01.  This node is used by c4.
-Direct Newton iteration for .op point succeeded.
+WARNING: Less than two connections to node n006.  This node is used by m1.
+WARNING: Less than two connections to node n008.  This node is used by m2.
+WARNING: Less than two connections to node final_out.  This node is used by c5.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.49501
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 5.50104
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
 
-Date: Tue Mar 18 12:00:07 2025
-Total elapsed time: 3.984 seconds.
+
+Date: Fri Mar 21 12:33:05 2025
+Total elapsed time: 9.026 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 610353
-traniter = 610338
-tranpoints = 192298
-accept = 129794
-rejected = 62504
-matrix size = 51
-fillins = 96
+totiter = 1530084
+traniter = 1528608
+tranpoints = 525702
+accept = 362015
+rejected = 163687
+matrix size = 50
+fillins = 80
 solver = Normal
 Avg thread counts: 1.0/1.0/1.0/1.0
-Matrix Compiler1: 8.67 KB object code size  2.0/1.2/[1.1]
-Matrix Compiler2: 5.88 KB object code size  0.8/1.4/[0.7]
+Matrix Compiler1: 6.66 KB object code size  1.2/0.6/[0.6]
+Matrix Compiler2: 5.52 KB object code size  0.4/0.5/[0.3]
 
