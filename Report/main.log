@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.24)  25 APR 2025 00:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.24)  5 MAY 2025 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/madha/Downloads/EW2 Project 2 AM Modulator Demodulator/main.tex"
-(c:/Users/madha/Downloads/EW2 Project 2 AM Modulator Demodulator/main.tex
+**c:/Users/madha/Desktop/AM-Modulator-Demodulator/Report/main.tex
+(c:/Users/madha/Desktop/AM-Modulator-Demodulator/Report/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (IEEEtran.cls
@@ -345,24 +345,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 -- Lines per column: 56 (exact).
 (C:\Users\madha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -384,16 +384,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\madha\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 13.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
  (C:\Users\madha\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
  (C:\Users\madha\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{C:/Users/madha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
@@ -403,75 +403,114 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Conventional_AM_spectrum.png, id=72, 1198.4775pt x 653.44125pt>
 File: Conventional_AM_spectrum.png Graphic file (type png)
 <use Conventional_AM_spectrum.png>
-Package pdftex.def Info: Conventional_AM_spectrum.png  used on input line 88.
+Package pdftex.def Info: Conventional_AM_spectrum.png  used on input line 108.
 (pdftex.def)             Requested size: 252.0pt x 137.39621pt.
 <DSB_SC_Passband_Spectrum.png, id=74, 1188.69093pt x 634.62094pt>
 File: DSB_SC_Passband_Spectrum.png Graphic file (type png)
 <use DSB_SC_Passband_Spectrum.png>
-Package pdftex.def Info: DSB_SC_Passband_Spectrum.png  used on input line 106.
+Package pdftex.def Info: DSB_SC_Passband_Spectrum.png  used on input line 126.
 (pdftex.def)             Requested size: 252.0pt x 134.53319pt.
 <Coherent_demodulation_AM.png, id=75, 1276.77pt x 300.3722pt>
 File: Coherent_demodulation_AM.png Graphic file (type png)
 <use Coherent_demodulation_AM.png>
-Package pdftex.def Info: Coherent_demodulation_AM.png  used on input line 114.
+Package pdftex.def Info: Coherent_demodulation_AM.png  used on input line 134.
 (pdftex.def)             Requested size: 252.0pt x 59.28503pt.
  [2 <./Conventional_AM_spectrum.png> <./DSB_SC_Passband_Spectrum.png> <./Coherent_demodulation_AM.png>]
 <Images/Full_circuit_ltspice.png, id=87, 1265.47781pt x 647.41875pt>
 File: Images/Full_circuit_ltspice.png Graphic file (type png)
 <use Images/Full_circuit_ltspice.png>
-Package pdftex.def Info: Images/Full_circuit_ltspice.png  used on input line 170.
+Package pdftex.def Info: Images/Full_circuit_ltspice.png  used on input line 195.
 (pdftex.def)             Requested size: 252.0pt x 128.91835pt.
 <Images/Osc_simulation.png, id=88, 1442.38875pt x 715.92468pt>
 File: Images/Osc_simulation.png Graphic file (type png)
 <use Images/Osc_simulation.png>
-Package pdftex.def Info: Images/Osc_simulation.png  used on input line 177.
+Package pdftex.def Info: Images/Osc_simulation.png  used on input line 202.
 (pdftex.def)             Requested size: 252.0pt x 125.0702pt.
 <Images/Modulator_ltspice.png, id=89, 599.99156pt x 532.99126pt>
 File: Images/Modulator_ltspice.png Graphic file (type png)
 <use Images/Modulator_ltspice.png>
-Package pdftex.def Info: Images/Modulator_ltspice.png  used on input line 184.
+Package pdftex.def Info: Images/Modulator_ltspice.png  used on input line 209.
 (pdftex.def)             Requested size: 252.0pt x 223.8548pt.
 <Images/Demodulator_ltspice.png, id=90, 610.53094pt x 365.86688pt>
 File: Images/Demodulator_ltspice.png Graphic file (type png)
 <use Images/Demodulator_ltspice.png>
-Package pdftex.def Info: Images/Demodulator_ltspice.png  used on input line 191.
+Package pdftex.def Info: Images/Demodulator_ltspice.png  used on input line 216.
 (pdftex.def)             Requested size: 252.0pt x 151.01685pt.
 <Images/fft_sine_osc.png, id=91, 1441.63594pt x 812.28468pt>
 File: Images/fft_sine_osc.png Graphic file (type png)
 <use Images/fft_sine_osc.png>
-Package pdftex.def Info: Images/fft_sine_osc.png  used on input line 198.
+Package pdftex.def Info: Images/fft_sine_osc.png  used on input line 223.
 (pdftex.def)             Requested size: 252.0pt x 141.97842pt.
 <Images/osc_circuit_out.png, id=92, 803.0pt x 504.88625pt>
 File: Images/osc_circuit_out.png Graphic file (type png)
 <use Images/osc_circuit_out.png>
-Package pdftex.def Info: Images/osc_circuit_out.png  used on input line 205.
+Package pdftex.def Info: Images/osc_circuit_out.png  used on input line 230.
 (pdftex.def)             Requested size: 252.0pt x 158.4468pt.
 <Images/modulated_out_circuit.png, id=93, 803.0pt x 504.88625pt>
 File: Images/modulated_out_circuit.png Graphic file (type png)
 <use Images/modulated_out_circuit.png>
-Package pdftex.def Info: Images/modulated_out_circuit.png  used on input line 212.
+Package pdftex.def Info: Images/modulated_out_circuit.png  used on input line 237.
 (pdftex.def)             Requested size: 252.0pt x 158.4468pt.
 <Images/modulated_demodulated.png, id=94, 803.0pt x 504.88625pt>
 File: Images/modulated_demodulated.png Graphic file (type png)
 <use Images/modulated_demodulated.png>
-Package pdftex.def Info: Images/modulated_demodulated.png  used on input line 219.
+Package pdftex.def Info: Images/modulated_demodulated.png  used on input line 244.
 (pdftex.def)             Requested size: 252.0pt x 158.4468pt.
 <Images/final_out_circuit.png, id=95, 803.0pt x 504.88625pt>
 File: Images/final_out_circuit.png Graphic file (type png)
 <use Images/final_out_circuit.png>
-Package pdftex.def Info: Images/final_out_circuit.png  used on input line 226.
+Package pdftex.def Info: Images/final_out_circuit.png  used on input line 251.
 (pdftex.def)             Requested size: 252.0pt x 158.4468pt.
 <Images/filter_response.png, id=96, 803.0pt x 504.88625pt>
 File: Images/filter_response.png Graphic file (type png)
 <use Images/filter_response.png>
-Package pdftex.def Info: Images/filter_response.png  used on input line 233.
+Package pdftex.def Info: Images/filter_response.png  used on input line 258.
 (pdftex.def)             Requested size: 252.0pt x 158.4468pt.
 <Images/modulated_output_fft.png, id=97, 803.0pt x 504.88625pt>
 File: Images/modulated_output_fft.png Graphic file (type png)
 <use Images/modulated_output_fft.png>
-Package pdftex.def Info: Images/modulated_output_fft.png  used on input line 240.
+Package pdftex.def Info: Images/modulated_output_fft.png  used on input line 265.
 (pdftex.def)             Requested size: 252.0pt x 158.4468pt.
+<Images/demodulated_output_fft.png, id=98, 803.0pt x 504.88625pt>
+File: Images/demodulated_output_fft.png Graphic file (type png)
+<use Images/demodulated_output_fft.png>
+Package pdftex.def Info: Images/demodulated_output_fft.png  used on input line 272.
+(pdftex.def)             Requested size: 252.0pt x 158.4468pt.
+<Images/recovered_message_fft.png, id=99, 803.0pt x 504.88625pt>
+File: Images/recovered_message_fft.png Graphic file (type png)
+<use Images/recovered_message_fft.png>
+Package pdftex.def Info: Images/recovered_message_fft.png  used on input line 279.
+(pdftex.def)             Requested size: 252.0pt x 158.4468pt.
+<Images/modulated_output_ltspice.png, id=100, 1437.11906pt x 719.68875pt>
+File: Images/modulated_output_ltspice.png Graphic file (type png)
+<use Images/modulated_output_ltspice.png>
+Package pdftex.def Info: Images/modulated_output_ltspice.png  used on input line 286.
+(pdftex.def)             Requested size: 252.0pt x 126.18901pt.
+<Images/demodulated_output_ltspice.png, id=101, 1444.64719pt x 712.91344pt>
+File: Images/demodulated_output_ltspice.png Graphic file (type png)
+<use Images/demodulated_output_ltspice.png>
+Package pdftex.def Info: Images/demodulated_output_ltspice.png  used on input line 293.
+(pdftex.def)             Requested size: 252.0pt x 124.34834pt.
+<Images/final_out_ltspice.png, id=102, 1438.6247pt x 713.66624pt>
+File: Images/final_out_ltspice.png Graphic file (type png)
+<use Images/final_out_ltspice.png>
+Package pdftex.def Info: Images/final_out_ltspice.png  used on input line 300.
+(pdftex.def)             Requested size: 252.0pt x 125.00235pt.
+<Images/Wein_bridge_oscillator_ltspice.png, id=103, 523.9575pt x 598.48593pt>
+File: Images/Wein_bridge_oscillator_ltspice.png Graphic file (type png)
+<use Images/Wein_bridge_oscillator_ltspice.png>
+Package pdftex.def Info: Images/Wein_bridge_oscillator_ltspice.png  used on input line 307.
+(pdftex.def)             Requested size: 252.0pt x 287.8453pt.
+<mixer.png, id=104, 1284.8pt x 918.43124pt>
+File: mixer.png Graphic file (type png)
+<use mixer.png>
+Package pdftex.def Info: mixer.png  used on input line 314.
+(pdftex.def)             Requested size: 214.20154pt x 153.11821pt.
 
+
+Package hyperref Warning: Suppressing link with empty target on input line 326.
+
+[3 <./Images/Full_circuit_ltspice.png> <./Images/Osc_simulation.png> <./Images/Modulator_ltspice.png> <./Images/Demodulator_ltspice.png> <./Images/fft_sine_osc.png>] [4 <./Images/osc_circuit_out.png (PNG copy)> <./Images/modulated_out_circuit.png (PNG copy)> <./Images/modulated_demodulated.png (PNG copy)> <./Images/final_out_circuit.png (PNG copy)> <./Images/filter_response.png (PNG copy)> <./Images/modulated_output_fft.png (PNG copy)>]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -483,26 +522,28 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3 <./Images/Full_circuit_ltspice.png> <./Images/Osc_simulation.png> <./Images/Modulator_ltspice.png> <./Images/Demodulator_ltspice.png> <./Images/fft_sine_osc.png>] [4 <./Images/osc_circuit_out.png (PNG copy)> <./Images/modulated_out_circuit.png (PNG copy)> <./Images/modulated_demodulated.png (PNG copy)> <./Images/final_out_circuit.png (PNG copy)> <./Images/filter_response.png (PNG copy)> <./Images/modulated_output_fft.png (PNG copy)>] (main.aux)
+[5 <./Images/demodulated_output_fft.png (PNG copy)> <./Images/recovered_message_fft.png (PNG copy)> <./Images/modulated_output_ltspice.png> <./Images/demodulated_output_ltspice.png> <./Images/final_out_ltspice.png> <./Images/Wein_bridge_oscillator_ltspice.png>] [6
+
+ <./mixer.png>] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 978865E188E1ED78105C1533D90C8F4A;1922.
+(rerunfilecheck)             Checksum: 55C11BDCF43810CAC2B94BE0943AFEA0;1889.
  ) 
 Here is how much of TeX's memory you used:
- 11317 strings out of 474486
- 179629 string characters out of 5743755
+ 11382 strings out of 474486
+ 181602 string characters out of 5743755
  1949542 words of memory out of 5000000
- 33424 multiletter control sequences out of 15000+600000
+ 33476 multiletter control sequences out of 15000+600000
  592981 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,630b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,619b,595s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/madha/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 644199 bytes).
+Output written on main.pdf (6 pages, 901942 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 175 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
